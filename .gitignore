@@ -7,5 +7,6 @@ logs
 
 FrontEnd/node_modules
 FrontEnd/dist
+Database/Dockerfile
 
 .vs
