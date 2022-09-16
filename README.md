@@ -469,4 +469,4 @@ Add the corresponding WebAPI inside our DishController Class:
 
 Note: _**GetDishesByPrice(maxPrice)**_ and _**GetDishesByString(searchBy)**_, are not shown in this example and are left as an exercise to learn more about the Mongodb C# API. The implementation of _**GetDishesByCategory(IList\<string\> categoryIdList)**_ can be used as a reference since it has a similar code.
 
-If you need the full sample code because some parts have been omited, you can look it up here: [Github Repo](https://github.com/devonfw-forge/devon4net-mongodb-migration)​​​​​​​
+If you need the full sample code because some parts have been omited, you can look it up here: [Github Repo](https://github.com/vlad961/Devon4netMongoDB.git)​​​​​​​
